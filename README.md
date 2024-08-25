@@ -57,3 +57,9 @@ https://github.com/bperez77/thickedge-polygonal-approximation/tree/master?tab=re
 Polygon approximation
 https://www.cse.iitb.ac.in/~sharat/icvgip.org/icvgip2002/proceedings/336.pdf
 
+!!!!!!!!The article is not based on clustering by primitives from LIDARa points,!!!!!!!!!!!
+                                but on initial semantic segmentation and subsequent reconstruction
+                                using a building height inference algorithm for retrieving the heights of the roof 
+                                and base using the combination of adaptive filtering and buffer analysis.
+https://www.sciencedirect.com/science/article/pii/S092427162030318X#s0055
+Automatic 3D building reconstruction from multi-view aerial images with deep learning
