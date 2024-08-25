@@ -23,3 +23,7 @@ https://universe.roboflow.com/roofdetection-fspvp/roof-tiles-detection
 Model for detecting the edges and slopes of the roof (Perhaps later it will be needed at the stage of 
                                                       identifying clear boundaries of the roof)
 https://universe.roboflow.com/proglint-asacd/roof_ridge-segmentation
+
+3D SURFACE RECONSTRUCTION FROM MULTI-PROJECT AND MULTIDATE SATELLITE IMAGES
+https://www.researchgate.net/publication/360957720_3D_SURFACE_RECONSTRUCTION_FROM_MULTI-VIEW_AND_MULTI-DATE_GOOGLE_EARTH_SATELLITE_IMAGES_WITH_3D_HOMOGRAPHY-BASED_PROJECTIVE_RECONSTRUCTION
+
