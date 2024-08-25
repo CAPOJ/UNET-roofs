@@ -1,6 +1,12 @@
 "# UNET-roofs" 
 "Using MobileNetV2 for U-net architecture as encoder" 
 
+
+
+ARTICLES OF PARTICULAR IMPORTANCE OR THEORETICAL INTEREST ARE MARKED WITH EXCLAMATION MARKS
+
+
+
 An article describing an algorithm for restoring a 3D model from a point cloud using 3 stages
 https://isprs-archives.copernicus.org/articles/XLII-2/1191/2018/isprs-archives-XLII-2-1191-2018.pdf
 
@@ -27,3 +33,20 @@ https://universe.roboflow.com/proglint-asacd/roof_ridge-segmentation
 3D SURFACE RECONSTRUCTION FROM MULTI-PROJECT AND MULTIDATE SATELLITE IMAGES
 https://www.researchgate.net/publication/360957720_3D_SURFACE_RECONSTRUCTION_FROM_MULTI-VIEW_AND_MULTI-DATE_GOOGLE_EARTH_SATELLITE_IMAGES_WITH_3D_HOMOGRAPHY-BASED_PROJECTIVE_RECONSTRUCTION
 
+Resolution enhancement of aerial images or satellite images
+https://patents.google.com/patent/EP3796252A1/en
+
+Systems and processes for building multiple equiprobable coherent geometrical models of the subsurface
+https://patents.google.com/patent/US8600708B1/en
+
+Modeling of 3D objects or surfaces by mesh constructions having optimal quality characteristics and dynamic resolution capabilities
+https://patents.google.com/patent/US5886702A/en
+
+Providing a 3d model
+https://patents.google.com/patent/WO2014112908A1/en
+
+!!Satellite image three-dimensional reconstruction method and device, electronic equipment and readable storage medium!!
+https://patents.google.com/patent/CN116704139A/en
+
+!!Method for 3D reconstruction from satellite imagery!!
+https://patents.google.com/patent/US11600042B2/en
