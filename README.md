@@ -50,3 +50,10 @@ https://patents.google.com/patent/CN116704139A/en
 
 !!Method for 3D reconstruction from satellite imagery!!
 https://patents.google.com/patent/US11600042B2/en
+
+!!The polygonal approximation!!(Used to work with car cameras, but can also be used to detect polygon objects)
+https://github.com/bperez77/thickedge-polygonal-approximation/tree/master?tab=readme-ov-file
+
+Polygon approximation
+https://www.cse.iitb.ac.in/~sharat/icvgip.org/icvgip2002/proceedings/336.pdf
+
