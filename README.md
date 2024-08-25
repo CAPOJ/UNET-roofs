@@ -15,3 +15,11 @@ https://github.com/SBCV/SatelliteSurfaceReconstruction
 
 Another Unet roof-segmentation algorithm
 https://github.com/MaedeRn/semantic-segmentation-of-building-roof/blob/master/roof_segmentation.py
+
+A model for detecting tiles in a photograph of a roof (possibly, with proper configuration and retraining, 
+                                                        it will be able to detect objects in a photograph of a roof)
+https://universe.roboflow.com/roofdetection-fspvp/roof-tiles-detection
+
+Model for detecting the edges and slopes of the roof (Perhaps later it will be needed at the stage of 
+                                                      identifying clear boundaries of the roof)
+https://universe.roboflow.com/proglint-asacd/roof_ridge-segmentation
