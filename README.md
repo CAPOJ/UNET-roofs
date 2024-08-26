@@ -67,3 +67,12 @@ Automatic 3D building reconstruction from multi-view aerial images with deep lea
 !!!!!!!!!!!READY PROJECT THAT RESTORES THE LoD2 model FROM A PICTURE!!!!!!!!!
 https://github.com/GDAOSU/LOD2BuildingModel
 
+!Reconstruction from unstructured point clouds by taking advantage of the learned visibility of the 3D points 
+            in the virtual views and traditional graph-cut based mesh generation.
+https://github.com/GDAOSU/vis2mesh/blob/master/README.md
+
+Reconstruction from Point Clouds with Visibility Information
+https://github.com/raphaelsulzer/dsrv-data/blob/main/README.md
+
+Example of comparing two meshes to reconstruct a 3D model from a point cloud (does include work with satellite images)
+https://github.com/raphaelsulzer/dsr-benchmark
