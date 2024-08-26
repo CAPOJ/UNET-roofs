@@ -79,3 +79,9 @@ https://github.com/raphaelsulzer/dsr-benchmark
 
 Another example of classic height restoration from satellite images
 https://github.com/sherif-abdallah/satellite-data/tree/main
+
+Detailed analysis of 3D shape restoration using images from a car camera, etc.
+https://github.com/PJLab-ADG/neuralsim
+
+!!!Shadow Neural Radiance (S-NeRF)!!!
+https://github.com/fedesemeraro/surfnerf
