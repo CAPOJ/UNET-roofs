@@ -76,3 +76,6 @@ https://github.com/raphaelsulzer/dsrv-data/blob/main/README.md
 
 Example of comparing two meshes to reconstruct a 3D model from a point cloud (does include work with satellite images)
 https://github.com/raphaelsulzer/dsr-benchmark
+
+Another example of classic height restoration from satellite images
+https://github.com/sherif-abdallah/satellite-data/tree/main
