@@ -63,3 +63,7 @@ https://www.cse.iitb.ac.in/~sharat/icvgip.org/icvgip2002/proceedings/336.pdf
                                 and base using the combination of adaptive filtering and buffer analysis.
 https://www.sciencedirect.com/science/article/pii/S092427162030318X#s0055
 Automatic 3D building reconstruction from multi-view aerial images with deep learning
+
+!!!!!!!!!!!READY PROJECT THAT RESTORES THE LoD2 model FROM A PICTURE!!!!!!!!!
+https://github.com/GDAOSU/LOD2BuildingModel
+
