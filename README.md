@@ -85,3 +85,7 @@ https://github.com/PJLab-ADG/neuralsim
 
 !!!Shadow Neural Radiance (S-NeRF)!!!
 https://github.com/fedesemeraro/surfnerf
+
+!!!!A page containing a large number of repositories with information, algorithms, datasets, techniques 
+        for processing satellite images, and even pre-trained models with weights!!!!!!!
+https://github.com/satellite-image-deep-learning
