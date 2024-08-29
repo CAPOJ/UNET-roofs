@@ -1,0 +1,49 @@
+# Outline Tracking Gitignore
+
+# Exclude all files, then include in only the required ones
+*
+
+# Allow for files nested within directories.
+!*/
+
+# Allow for python, shell script, and MATLAB files
+!*.py
+!*.sh
+!*.m
+
+# Allow for C or C++ files
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+
+# Allow for the background subtraction library
+!/bgslibrary
+
+# Allow for Makefiles
+!Makefile
+
+# Allow for video and image files in the data and papers directories
+!/data/**/*.avi
+!/data/**/*.png
+!/data/**/*.jpg
+!/paper/**/*.png
+
+# Allow for XML files
+!*.xml
+
+# Allow for Latex files
+!*.tex
+!*.sty
+!*.bst
+!*.bib
+
+# Allow for word documents and power points
+!*.docx
+!*.pptx
+
+# Allow for gitignore, gitmodules, license, and README files
+!.gitignore
+!.gitmodules
+!LICENSE
+!README.md
