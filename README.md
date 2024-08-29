@@ -1,7 +1,3 @@
-"# UNET-roofs" 
-"Using MobileNetV2 for U-net architecture as encoder" 
-
-
 
 ARTICLES OF PARTICULAR IMPORTANCE OR THEORETICAL INTEREST ARE MARKED WITH EXCLAMATION MARKS
 
