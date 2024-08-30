@@ -92,3 +92,5 @@ https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Approximating_shapes_i
 !!!Ready Classification!!!(On C)
 https://github.com/CGAL/cgal/tree/master/Classification
 
+!!!LOD Generation for Urban Scenes!!!
+https://inria.hal.science/hal-01113078/file/manuscript.pdf
