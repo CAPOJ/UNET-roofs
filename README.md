@@ -94,3 +94,6 @@ https://github.com/CGAL/cgal/tree/master/Classification
 
 !!!LOD Generation for Urban Scenes!!!
 https://inria.hal.science/hal-01113078/file/manuscript.pdf
+
+!!!Git with a GeometryLibrary!!!
+https://github.com/chenzhaiyu/awesome-planar-reconstruction?tab=readme-ov-file
