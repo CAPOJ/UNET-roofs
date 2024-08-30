@@ -88,3 +88,7 @@ https://github.com/satellite-image-deep-learning
 
 !!!!Article about aproximation!!!
 https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Approximating_shapes_in_images_with_low-complexity_polygons_CVPR_2020_paper.pdf
+
+!!!Ready Classification!!!(On C)
+https://github.com/CGAL/cgal/tree/master/Classification
+
