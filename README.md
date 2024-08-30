@@ -85,3 +85,6 @@ https://github.com/fedesemeraro/surfnerf
 !!!!A page containing a large number of repositories with information, algorithms, datasets, techniques 
         for processing satellite images, and even pre-trained models with weights!!!!!!!
 https://github.com/satellite-image-deep-learning
+
+!!!!Article about aproximation!!!
+https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Approximating_shapes_in_images_with_low-complexity_polygons_CVPR_2020_paper.pdf
