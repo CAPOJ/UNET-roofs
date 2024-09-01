@@ -103,3 +103,6 @@ https://github.com/tudelft3d/City3D?tab=readme-ov-file
 
 !!!(KPConv)+STPLS3D
 https://github.com/meidachen/STPLS3D?tab=readme-ov-file + https://www.youtube.com/watch?v=6wYWVo6Cmfs
+
+Semantic Segmentation of Urban-Scale 3D Point Clouds
+https://github.com/QingyongHu/SensatUrban?tab=readme-ov-file
