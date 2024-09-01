@@ -106,3 +106,6 @@ https://github.com/meidachen/STPLS3D?tab=readme-ov-file + https://www.youtube.co
 
 Semantic Segmentation of Urban-Scale 3D Point Clouds
 https://github.com/QingyongHu/SensatUrban?tab=readme-ov-file
+
+!!!GitHub, which contains a large number of articles on object segmentation by point cloud since 2017!!!
+https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023?tab=readme-ov-file
