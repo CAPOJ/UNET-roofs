@@ -109,3 +109,6 @@ https://github.com/QingyongHu/SensatUrban?tab=readme-ov-file
 
 !!!GitHub, which contains a large number of articles on object segmentation by point cloud since 2017!!!
 https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023?tab=readme-ov-file
+
+An article with general principles of restoring 3D models from images
+https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0
