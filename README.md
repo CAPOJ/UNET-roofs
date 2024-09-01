@@ -97,3 +97,7 @@ https://inria.hal.science/hal-01113078/file/manuscript.pdf
 
 !!!Git with a GeometryLibrary!!!
 https://github.com/chenzhaiyu/awesome-planar-reconstruction?tab=readme-ov-file
+
+It doesn't solve our problem, but it builds LoD models based on already marked building contours and a point cloud.
+https://github.com/tudelft3d/City3D?tab=readme-ov-file
+
