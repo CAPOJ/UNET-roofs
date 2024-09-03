@@ -112,3 +112,6 @@ https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023?tab=readme-ov-file
 
 An article with general principles of restoring 3D models from images
 https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0
+
+Articles about differential rendering and convolution on graphs from MAI
+https://habr.com/ru/companies/itmai/articles/520268/ https://habr.com/ru/companies/itmai/articles/533746/
